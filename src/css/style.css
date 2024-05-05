@@ -1,0 +1,12 @@
+header{
+    block-size: auto;
+    height: fit-content;
+}
+p{
+    opacity: 0.8;
+   height: 250px;
+   
+}
+body{
+    background: radial-gradient(ellipse at center, #e4efc0 0%,#abbd73 100%);
+}
